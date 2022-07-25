@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Este projeto teve requisitos baseados em usar comandos do Docker para criação, execução, remoção e listagem de containers e images, além de criação de builds usando o Dockerfiles e orquestração de serviços com o Docker Compose.</h4>
+<p align="left">Este projeto teve requisitos baseados em usar comandos do Docker para criação, execução, remoção e listagem de containers e images, além de criação de builds usando o Dockerfiles e orquestração de serviços com o Docker Compose.</p>
 
 ###
 
